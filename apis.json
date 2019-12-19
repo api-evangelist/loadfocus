@@ -1,0 +1,42 @@
+{
+    "name": "LoadFocus",
+    "description": "<p>Load test with thousands of concurrent users. Monitor website uptime and perfomance. Measure website speed and get insights. Run load tests in the Cloud and stress your API with up to 50,000 concurrent users. Inspect results to optimise and improve performance.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/loadfocus.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "performance",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/loadfocus\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LoadFocus",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/loadfocus.png",
+            "humanURL": "https:\/\/loadfocus.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/loadfocus-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/loadfocus.com\/blog\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/loadfocus.com\/"
+        }
+    ]
+}
